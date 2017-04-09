@@ -1,0 +1,66 @@
+#bash_sehife{
+	min-height: 2000px;
+	width: 1000px;
+	background: white;
+	margin: auto;
+}
+
+
+
+.logo{
+	background:gray;
+	height: 100px;
+	width: 420px;
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.search{
+	height: 30px;
+	width: 500px;
+	float: right;
+	margin-top: 80px;
+	margin-right: 10px;
+}
+
+.esas_sehife{
+	height: 120px;
+	width: 1000px;
+}
+
+
+.bashliqlar{
+	height: 40px;
+	width: 1000px;
+	background:#808080;
+	margin-top: 20px;
+
+}
+
+
+.image_and_banners{
+	height: 329px;
+	width: 1000px;
+	margin-top: 20px;
+}
+
+
+.image{
+	height: 329px;
+	width: 600px;
+	background: gray;
+	float: left;
+}
+
+
+
+.sag_banerler{
+	height: 329px;
+	width: 400px;
+	float: left;
+}
+
+
+
+
